@@ -7,11 +7,7 @@
 
 1. Crea un sitio web que se vea exactamente como este:
 
-<p align="center">
-<img height="300" src="https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif?raw=true" />
-
-[click para abrir](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif?raw=true)
-</p>
+- [Pincha Aquí](https://github.com/breatheco-de/exercise-instagram-feed-bootstrap/blob/master/preview.gif)
 
 2. Inicia el CSS y el HTML desde cero, no lo reutilices en otro ejercicio porque terminarás teniendo un desastre.
 3. Antes de comenzar a programar haz un dibujo del sitio web con todos los componentes de bootstrap que usarás.
