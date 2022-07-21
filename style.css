@@ -1,0 +1,24 @@
+body {
+    min-height: 1000px;
+    background-color: #ededed;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    background-color: gray;
+}
+.nav-link,
+.nav-link:focus,
+.nav-link:hover {
+    color: gray;
+}
+.portafolio-grid-item img {
+    max-height: 600px;
+    width: 600px;
+    object-fit:cover;
+    object-position:top center;
+}
+.portafolio-grid-item img:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
